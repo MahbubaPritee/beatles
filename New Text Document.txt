@@ -1,0 +1,11 @@
+font-family: 'Open Sans', sans-serif;
+
+font-family: 'myriad_semibold';
+
+font-family: 'myriad_bold';
+
+font-family: 'myriad_light';
+
+font-family: 'myriad_regular';
+
+font-family: 'Oswald', sans-serif;
